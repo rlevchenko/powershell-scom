@@ -8,4 +8,4 @@
 - SCOM media copied to the <systemdrive>\SCOM2016
 - I checked the script using my domain administrator account
   
-  Blog post: https://rlevchenko.com/2018/01/16/automate-scom-2016-installation-with-powershell/
+  Blog post and more details: https://rlevchenko.com/2018/01/16/automate-scom-2016-installation-with-powershell/
